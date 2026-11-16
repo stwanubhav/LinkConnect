@@ -1,0 +1,40 @@
+[
+  {
+    "id": "learnfreex",
+    "name": "learnfreex.ct.ws",
+    "title": "LearnFreeX",
+    "url": "https://learnfreex.ct.ws",
+    "tag": "FREE COURSES · TECH GUIDES",
+    "stack": "TUTORIALS · NOTES · DEVELOPER GUIDES",
+    "desc": "Free online educational platform featuring developer tutorials, downloadable study guides, and curated programming courses for students.",
+    "color": "#0b2cff",
+    "theme": "blue",
+    "stars": 1420,
+    "createdAt": 1700000000000
+  },
+  {
+    "id": "lotusstudy",
+    "name": "lotusstudy.in",
+    "title": "Lotus Study",
+    "url": "https://lotusstudy.in",
+    "tag": "ACADEMIC & EXAM PORTAL",
+    "stack": "EXAM NOTES · STUDY MATERIAL · SYLLABUS",
+    "desc": "Premier student learning & exam preparation portal providing high-yield syllabus notes, study resources, and academic guidance across subjects.",
+    "color": "#16a34a",
+    "theme": "green",
+    "stars": 1180,
+    "createdAt": 1700000001000
+  },
+  {
+    "name": "unite-cbt.kdns.fr",
+    "title": "Unite CBT",
+    "url": "https://unite-cbt.kdns.fr/",
+    "tag": "OFFLINE CBT TESTING PLATFORM",
+    "stack": "CHEAT-RESISTANT · OFFLINE-READY · ZERO INFRASTRUCTURE",
+    "desc": "Unite CBT is a professional, lightweight, cheat-resistant computer-based testing platform. Runs on any PC, 100% offline-ready, zero infrastructure cost.",
+    "color": "#0afbff",
+    "theme": "blue",
+    "id": "unite-cbt-kdns-fr",
+    "createdAt": 1794807836646
+  }
+]

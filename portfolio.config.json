@@ -1,0 +1,77 @@
+{
+  "site": {
+    "url": "https://linkconnect.local",
+    "title": "Link Connect — 3D Curated Web Directory",
+    "description": "Explore curated websites with cinematic 3D sliding cards: learnfreex.ct.ws, lotusstudy.in and more.",
+    "keywords": [
+      "Link Connect", "Web Directory", "learnfreex.ct.ws", "lotusstudy.in", "3D cards", "Three.js", "sliding cards", "curated web portals"
+    ],
+    "ogImage": "/opengraph.jpg",
+    "favicon": "/nobg.png",
+    "themeColor": "#000000",
+    "locale": "en_US",
+    "twitter": "@linkconnect",
+    "geo": { "region": "GLOBAL", "placename": "Web", "lat": 0, "lng": 0 }
+  },
+
+  "person": {
+    "name": "STW Anubhav",
+    "givenName": "Anubhav",
+    "familyName": "Patel",
+    "handle": "stwanubhav",
+    "pronouns": "He/Him",
+    "gender": "Male",
+    "born": "2004-01-01",
+    "location": "India",
+    "city": "India",
+    "country": "India",
+    "nationality": "Indian",
+    "languages": ["English", "Hindi"],
+    "email": "stwanubhavbusiness@gmail.com",
+    "jobTitle": "Creator & AI Software Engineer",
+    "avatar": "/nobg.png",
+    "summary": "STW Anubhav — Creator of Link Connect, Unite CBT, and modern AI platforms."
+  },
+
+  "accounts": {
+    "github": "stwanubhav",
+    "leetcode": "stwanubhav",
+    "discordId": ""
+  },
+
+  "github": {
+    "featuredTopic": "featured",
+    "excludeUpstreamOwners": [],
+    "ignoreCommits": "^(bot[:(]|merge )"
+  },
+
+  "hero": {
+    "tag": "// WEB DIRECTORY",
+    "blurb": "Explore curated web portals and educational destinations with 3D sliding cards."
+  },
+
+  "projects": [],
+  "socials": [],
+  "timeline": [],
+  "signal": {
+    "cards": []
+  },
+  "terminal": {
+    "title": "linkconnect: ~",
+    "lines": []
+  },
+  "contact": {
+    "headline": "LINK CONNECT",
+    "sub": "Curated Web Directory"
+  },
+  "linkedin": {
+    "followers": "1k",
+    "connections": "500+",
+    "tagline": "3D Web Directory",
+    "about": "Link Connect Directory",
+    "headline": "Curated Portal",
+    "url": "https://linkconnect.local",
+    "company": { "name": "Link Connect", "logo": "" },
+    "school": { "name": "Web", "logo": "" }
+  }
+}
